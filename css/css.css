@@ -249,7 +249,7 @@ body{font-family:Microsoft JhengHei;}
   width:250px;
   text-indent:-99999px;
   height:48px;
-  background:url(file:///D:/Front-end/RWD/img/logo_w.png) no-repeat;
+  background:url(https://github.com/corly74/RWD-Hamberger/blob/master/img/logo_w.png?raw=true) no-repeat;
 
 }
 
@@ -268,7 +268,7 @@ body{font-family:Microsoft JhengHei;}
 .logo a {
 width:125px;
  height:24px; 
-background:url(file:///D:/Front-end/RWD/img/logo_l_120.png) no-repeat;
+background:url(https://github.com/corly74/RWD-Hamberger/blob/master/img/logo_l_120.png?raw=true) no-repeat;
 }
   
 }
