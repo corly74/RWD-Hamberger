@@ -399,7 +399,7 @@ clear: both ;
     color: #FFFFFF;
     width: 100%;
     height: 410px;
-    background-image: url(file:///D:/Front-end/RWD/img/header_desktop_1024.png);
+    background-image: url(https://github.com/corly74/RWD-Hamberger/blob/master/img/header_desktop_1024.png);
     background-repeat: no-repeat;
     position: absolute;
     }
@@ -409,7 +409,7 @@ clear: both ;
 .btn{
   width: 100%;
   height: 410px;
-  background: url(file:///D:/Front-end/RWD/img/header_desktop_768.png);
+  background: url(https://github.com/corly74/RWD-Hamberger/blob/master/img/header_desktop_768.png);
   background-repeat: no-repeat;
   position: absolute;
 }
@@ -421,7 +421,7 @@ clear: both ;
 
   width: 100%;
   height: auto;
-  background: url(file:///D:/Front-end/RWD/img/header_mobile.png);
+  background: url(https://github.com/corly74/RWD-Hamberger/blob/master/img/header_mobile.png);
   background-repeat: no-repeat;
   position: absolute;
 
@@ -650,7 +650,7 @@ margin-left: 512px;
 
 
 .cheif{
-  background-image: url(file:///D:/Front-end/RWD/img/main_chef_brown.png);
+  background-image: url(https://github.com/corly74/RWD-Hamberger/blob/master/img/main_chef_brown.png);
   position: absolute;
   width: 470px;
   height: 460px;
@@ -1243,7 +1243,7 @@ color: #3D1101;
   text-indent:-999999px;
   width:245px;
   height:49px;
-  background:url(file:///D:/Front-end/RWD/img/logo_l.png) no-repeat;
+  background:url(https://github.com/corly74/RWD-Hamberger/blob/master/img/logo_l.png) no-repeat;
 
 }
 
